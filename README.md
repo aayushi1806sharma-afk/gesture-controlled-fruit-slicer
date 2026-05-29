@@ -36,15 +36,12 @@ The project uses webcam-based hand tracking to let users slice fruits using fing
 ```bash
 Gesture-Controlled-Slicing-Game/
 │
-├── assets/
-│   ├── images/
-│   └── sounds/
-│
 ├── hand_tracking.py
 ├── game_objects.py
 ├── effects.py
 ├── main.py
-├── requirements.txt
+├── sound_manager.py
+├── leaderboared.py
 └── README.md
 ```
 
@@ -55,7 +52,7 @@ Gesture-Controlled-Slicing-Game/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gesture-controlled-fruit-slicer.git
+[git clone https://github.com/YOUR_USERNAME/gesture-controlled-fruit-slicer.git](https://github.com/aayushi1806sharma-afk/gesture-controlled-fruit-slicer.git)
 ```
 
 ### 2️⃣ Navigate to the Project Folder
@@ -64,13 +61,8 @@ git clone https://github.com/YOUR_USERNAME/gesture-controlled-fruit-slicer.git
 cd gesture-controlled-fruit-slicer
 ```
 
-### 3️⃣ Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the Project
+### 3️⃣ Run the Project
 
 ```bash
 py -3.11 main.py

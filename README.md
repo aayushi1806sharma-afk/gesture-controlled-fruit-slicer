@@ -52,7 +52,7 @@ Gesture-Controlled-Slicing-Game/
 ### 1️⃣ Clone the Repository
 
 ```bash
-[git clone https://github.com/YOUR_USERNAME/gesture-controlled-fruit-slicer.git](https://github.com/aayushi1806sharma-afk/gesture-controlled-fruit-slicer.git)
+(https://github.com/aayushi1806sharma-afk/gesture-controlled-fruit-slicer.git)
 ```
 
 ### 2️⃣ Navigate to the Project Folder
